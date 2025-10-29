@@ -1,0 +1,5 @@
+{
+  "name": "BIOCAP",
+  "description": "Una plataforma impulsada por IA para digitalizar manuales de equipos médicos y gestionar la capacitación del equipo. Sube documentos físicos para una digitalización instantánea, crea cápsulas de capacitación con la ayuda de IA y monitorea el progreso del equipo con informes detallados.",
+  "requestFramePermissions": []
+}
